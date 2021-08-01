@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
-
+##  Bienvenido a mi pagina d. web 
+😍
+hola a todos 
 [back](./)
