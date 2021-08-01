@@ -8,19 +8,26 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 hola, este es un blog de prueba de Daniela Jácome 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+aqui puedes conocer  un poco mas sobre mi 
 
-# Header 1
+#  sobre mi 
 
 Mi nombre es Daniela Jácome, tengo 22 años, estudio diseño grafico y vivo en la ciudad de México. 
 
-## Header 2
+##  pasiones
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>la musica
+>tocar el ukulele
+>cantar 
+>ilustrar 
+>el diseño gráfico 
 
-### Header 3
+
+###  gustos
+ver youtube
+el maquillaje
+las tendencias en ropa
+
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,17 +44,14 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
+####  comida favorita 
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*  Enchiladas
+*  pizza 
+#####  Mis mascotas 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Katy (Gato)
+2.  Blondie (perro)
 
 ###### Header 6
 
