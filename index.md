@@ -6,6 +6,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
+#primer post
+
+
+[primer post]_(./Primerpost.html)
+
 hola, este es un blog de prueba de Daniela Jácome 
 
 aqui puedes conocer  un poco mas sobre mi 
