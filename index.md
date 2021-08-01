@@ -9,7 +9,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 #primer post
 
 
-[primer post]_(./Primerpost.html)
+[Link to another page](./another-page.html).
+
 
 hola, este es un blog de prueba de Daniela Jácome 
 
@@ -24,9 +25,8 @@ Mi nombre es Daniela Jácome, tengo 22 años, estudio diseño grafico y vivo en 
 >la musica
 >tocar el ukulele
 >cantar 
->ilustrar 
->el diseño gráfico 
-
+>ilustrar
+>el diseño  
 
 ###  gustos
 ver youtube
