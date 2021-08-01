@@ -9,9 +9,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 #primer post
 
 
-[Link to another page](./another-page.html).
-
-
+[Link to another page](./primerpost.html).
 hola, este es un blog de prueba de Daniela Jácome 
 
 aqui puedes conocer  un poco mas sobre mi 
